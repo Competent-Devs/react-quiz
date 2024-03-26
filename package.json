@@ -1,6 +1,6 @@
 {
   "name": "react-quiz",
-  "homepage": "https://nevox-alexxx.github.io/quiz-react-project",
+  "homepage": "/",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
